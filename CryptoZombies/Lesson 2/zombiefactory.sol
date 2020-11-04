@@ -36,4 +36,3 @@ contract ZombieFactory {
     }
 
 }
-
