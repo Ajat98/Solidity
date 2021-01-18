@@ -2,7 +2,7 @@ pragma solidity >=0.5.0 <=0.7.0;
 
 import "./zombiefactory.sol";
 
-//add KittyInterface here
+//KittyInterface contract 
 contract KittyInterface {
   function getKitty(uint256 _id) external view returns (
     bool isGestating,
